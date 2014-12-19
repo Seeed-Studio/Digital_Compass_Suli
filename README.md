@@ -1,4 +1,4 @@
-Grove - RTC
+Grove - Digital Compass
 -------------------------------------------------------------
 ![image](http://www.seeedstudio.com/depot/images/product/axis%20compass.jpg)
 
